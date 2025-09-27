@@ -98,8 +98,6 @@
 
 </details>
 
-## 🔍 Detailed Certificate & Experience Breakdown
-
 <details>
 <summary>☁️ <strong>AWS Conference (Amazon, July 2024)</strong></summary>
 
