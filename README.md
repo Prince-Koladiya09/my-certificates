@@ -1,256 +1,499 @@
-🏆 Certificates Portfolio
 <div align="center">
-https://img.shields.io/badge/Prince_Koladiya-Certifications_Portfolio-0D1117?style=for-the-badge&logo=starship
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmY5cHg5N3ZmbjZ5b2RnanE4eDBsZ3R0ZzZpZ3o3eW16aXQ2eGZqdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkASztds2/giphy.gif" width="200" />
+  <h1><strong>Prince Koladiya's Certification Portfolio</strong></h1>
+  <p>An active learner passionate about AI/ML, Full-Stack Development, and Data Science.</p>
 
-https://img.shields.io/badge/Total_Certificates-8-00d4ff?style=flat-square
-https://img.shields.io/badge/Latest_Update-September_2025-brightgreen?style=flat-square
-https://img.shields.io/badge/Status-Active_Learner-orange?style=flat-square
+  <p>
+    <img src="https://img.shields.io/badge/Total_Certificates-8-00d4ff?style=for-the-badge&logo=starship" alt="Total Certificates">
+    <img src="https://img.shields.io/badge/Latest_Update-September_2025-brightgreen?style=for-the-badge" alt="Latest Update">
+    <img src="https://img.shields.io/badge/Status-Active_Learner-orange?style=for-the-badge" alt="Status">
+  </p>
 
+  <p>
+    <a href="your-linkedin-url"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+    <a href="https://github.com/your-github-username"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub"></a>
+    <a href="mailto:your-email-address"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email"></a>
+  </p>
 </div>
-📊 Certificate Overview
-Certificate	Organization	Date	Skills	Status
-Google AI Essentials	Google	Sep 2025	AI/ML, Generative AI	✅ Completed
-IEEE Conference Volunteer	IEEE	Aug 2025	Leadership, Presentation	✅ Completed
-Machine Learning Fundamentals	Microsoft	Jul 2024	ML Concepts	✅ Completed
-AWS Conference	Amazon	Jul 2024	Cloud Infrastructure	✅ Attended
-Data Science Internship	Nexus Info	Aug 2024	NLP, EDA, ML	✅ Completed
-Hackathon Participation	DA-IICT	2025	GIS, AI, Data Visualization	✅ Participated
-Sensory Automation Intern	Akshaya Patra	Jun 2024	Full-Stack Development	✅ Completed
-🚀 Detailed Certificate Breakdown
-🎯 Google AI Essentials (September 2025)
+
+---
+
+## 📊 Certificate Overview
+
+| Certificate                     | Organization      | Date       | Skills                       | Status      |
+| ------------------------------- | ----------------- | ---------- | ---------------------------- | ----------- |
+| Google AI Essentials            | Google            | Sep 2025   | AI/ML, Generative AI         | ✅ Completed |
+| IEEE Conference Volunteer       | IEEE              | Aug 2025   | Leadership, Presentation     | ✅ Completed |
+| Machine Learning Fundamentals   | Microsoft         | Jul 2024   | ML Concepts                  | ✅ Completed |
+| AWS Conference                  | Amazon            | Jul 2024   | Cloud Infrastructure         | ✅ Attended  |
+| Data Science Internship         | Nexus Info        | Aug 2024   | NLP, EDA, ML                 | ✅ Completed |
+| Hackathon Participation         | DA-IICT           | 2025       | GIS, AI, Data Visualization  | ✅ Participated |
+| Sensory Automation Intern       | Akshaya Patra     | Jun 2024   | Full-Stack Development       | ✅ Completed |
+
+---
+
+## 🚀 Detailed Certificate Breakdown
+
+<details>
+<summary>🎯 <strong>Google AI Essentials (September 2025)</strong></summary>
+<br>
 <div align="center">
-https://img.shields.io/badge/Status-Completed-success
-https://img.shields.io/badge/Level-Advanced-blue
-https://img.shields.io/badge/Focus-AI/ML-important
-
+  <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Level-Advanced-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Focus-AI/ML-important?style=for-the-badge">
 </div>
-Key Learnings:
 
-🤖 AI/ML Fundamentals: Comprehensive understanding of machine learning concepts
+### Key Learnings:
+- 🤖 **AI/ML Fundamentals:** Comprehensive understanding of machine learning concepts.
+- 🧮 **Mathematics Behind ML:** Statistical foundations and algorithmic principles.
+- 🎨 **Generative AI:** Principles and practical applications.
+- 💡 **Real-world Implementation:** Industry-specific AI solutions.
 
-🧮 Mathematics Behind ML: Statistical foundations and algorithmic principles
+**Technologies:** Python, Machine Learning, Generative AI
+</details>
 
-🎨 Generative AI: Principles and practical applications
-
-💡 Real-world Implementation: Industry-specific AI solutions
-
-Technologies: Python, Machine Learning, Generative AI
-
-🌐 IEEE AIMV-2025 Conference Volunteer (August 2025)
+<details>
+<summary>🌐 <strong>IEEE AIMV-2025 Conference Volunteer (August 2025)</strong></summary>
+<br>
 <div align="center">
-https://img.shields.io/badge/Role-Volunteer_Lead-red
-https://img.shields.io/badge/Presentation-Successful-brightgreen
-
+  <img src="https://img.shields.io/badge/Role-Volunteer_Lead-red?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Presentation-Successful-brightgreen?style=for-the-badge">
 </div>
-Responsibilities & Achievements:
 
-🎤 Session Coordination Lead: Managed complete conference session workflows
+### Responsibilities & Achievements:
+- 🎤 **Session Coordination Lead:** Managed complete conference session workflows.
+- 📊 **Technical Presenter:** Delivered research on "Machine Learning in Stellar Spacecraft Operations."
+- 👥 **Speaker Management:** Coordinated with international speakers and chairs.
+- 📜 **Certificate Distribution:** Organized credential management.
 
-📊 Technical Presenter: Delivered research on "Machine Learning in Stellar Spacecraft Operations"
+**Skills Developed:** Public Speaking, Event Management, Technical Presentation
+</details>
 
-👥 Speaker Management: Coordinated with international speakers and chairs
-
-📜 Certificate Distribution: Organized credential management
-
-Skills Developed: Public Speaking, Event Management, Technical Presentation
-
-🤖 Microsoft ML Fundamentals (July 2024)
+<details>
+<summary>🤖 <strong>Microsoft ML Fundamentals (July 2024)</strong></summary>
+<br>
 <div align="center">
-https://img.shields.io/badge/Issuer-Microsoft-blue
-https://img.shields.io/badge/Focus-Machine_Learning-ff69b4
-
+  <img src="https://img.shields.io/badge/Issuer-Microsoft-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Focus-Machine_Learning-ff69b4?style=for-the-badge">
 </div>
-Core Competencies:
 
-📈 Machine Learning Concepts: Comprehensive theoretical foundation
+### Core Competencies:
+- 📈 **Machine Learning Concepts:** Comprehensive theoretical foundation.
+- 🔧 **Practical Implementation:** Real-world application scenarios.
+- 🏗️ **Algorithm Understanding:** In-depth knowledge of ML algorithms.
+- 📊 **Data Processing:** Data preparation and feature engineering.
 
-🔧 Practical Implementation: Real-world application scenarios
+**Technologies:** Machine Learning, Data Analysis, Python
+</details>
 
-🏗️ Algorithm Understanding: In-depth knowledge of ML algorithms
+---
 
-📊 Data Processing: Data preparation and feature engineering
+## 📅 Learning Timeline
 
-Technologies: Machine Learning, Data Analysis, Python
+```mermaid
+gantt
+    title Learning and Achievement Timeline
+    dateFormat  YYYY-MM
+    axisFormat %b %Y
 
-☁️ AWS Conference Attendance (July 2024)
-<div align="center">
-https://img.shields.io/badge/Event-AWSOME_DAY-orange
-https://img.shields.io/badge/Type-Conference-lightgrey
+    section 2024
+    Akshaya Patra Internship (Full-Stack) :done, 2024-06, 30d
+    AWS Conference (Cloud Infrastructure) :done, 2024-07, 5d
+    Microsoft ML Fundamentals (Machine Learning) :done, 2024-07, 20d
+    Nexus Info Internship (Data Science & NLP) :done, 2024-08, 30d
 
-</div>
-Conference Insights:
-
-🏢 Amazon Infrastructure: Deep dive into AWS cloud architecture
-
-🤖 ML Services: Comprehensive overview of Amazon's machine learning offerings
-
-🔬 Research Projects: Latest innovations and upcoming technologies
-
-☁️ SaaS Solutions: Software as a Service implementations and best practices
-
-Technologies: AWS, Cloud Computing, SaaS, Machine Learning Services
-
-📊 Nexus Info Data Science Internship *(July-August 2024)*
-<div align="center">
-https://img.shields.io/badge/Duration-1_Month-purple
-https://img.shields.io/badge/Projects-3_Completed-success
-
-</div>
-Projects & Technologies:
-
-🛡️ Spam Detection System: ML and NLP-based email filtering
-
-📝 Natural Language Processing: Text analysis and classification algorithms
-
-📊 Exploratory Data Analysis: Comprehensive data insights and visualization
-
-🤖 Machine Learning Models: Implementation and optimization techniques
-
-Achievements: Client demo project leadership, multiple project completions
-
-Tech Stack: Python, Pandas, NumPy, Scikit-learn, NLP
-
-🏆 HackOUT'25 Hackathon Participation (2025)
-<div align="center">
-https://img.shields.io/badge/Event-48_Hours-green
-https://img.shields.io/badge/OA_Round-Cleared-brightgreen
-
-</div>
-Project: Green Hydrogen Infrastructure Mapping
-
-🗺️ Interactive GIS Dashboard: Full-stack web mapping solution
-
-📡 NASA Satellite Data Integration: Real-time geospatial data processing
-
-🤖 AI Prediction Models: Intelligent site selection recommendations
-
-📈 Risk Assessment: AI-generated project evaluation and documentation
-
-🌱 Sustainability Focus: Net-zero emission solutions and optimization
-
-Tech Stack: Leaflet.js, Mapbox, D3.js, Python, AI/ML Models
-
-💻 Akshaya Patra Full-Stack Internship (June 2024)
-<div align="center">
-https://img.shields.io/badge/Stack-Full--Stack-brightgreen
-https://img.shields.io/badge/Impact-Menu_Optimization-blue
-
-</div>
-Project: Sensory Report Automation
-
-⚡ Full-Stack Development: Node.js, Express, MySQL backend development
-
-📱 User Interface Design: Intuitive feedback collection system
-
-📊 Data Visualization: Actionable insights dashboard for decision making
-
-🎯 Business Impact: Direct menu optimization leading to increased engagement
-
-Tech Stack: Node.js, Express, MySQL, JavaScript, HTML/CSS
-
+    section 2025
+    Hackathon Participation (GIS & AI) :done, 2025-01, 2d
+    IEEE Conference (Volunteer & Presentation) :active, 2025-08, 15d
+    Google AI Essentials (Advanced AI/ML) :active, 2025-09, 30d
 🛠️ Technical Skills Summary
-🤖 AI/ML Technologies
-https://img.shields.io/badge/Python-Expert-green
-https://img.shields.io/badge/Machine_Learning-Advanced-orange
-https://img.shields.io/badge/NLP-Intermediate-yellow
-https://img.shields.io/badge/Generative_AI-Beginner-blue
-
-💻 Web Development
-https://img.shields.io/badge/Node.js-Advanced-green
-https://img.shields.io/badge/Express-Advanced-green
-https://img.shields.io/badge/MySQL-Intermediate-orange
-https://img.shields.io/badge/JavaScript-Expert-green
-
-📊 Data Science
-https://img.shields.io/badge/Pandas-Intermediate-orange
-https://img.shields.io/badge/NumPy-Intermediate-orange
-https://img.shields.io/badge/EDA-Advanced-green
-https://img.shields.io/badge/Visualization-Intermediate-yellow
-
-☁️ Cloud & Tools
-https://img.shields.io/badge/AWS-Beginner-blue
-https://img.shields.io/badge/GIS_Tools-Intermediate-yellow
-https://img.shields.io/badge/Git-Advanced-green
-
-📅 Learning Timeline
-🗓️ 2024 Journey
-text
-June 2024  - Akshaya Patra Internship (Full-Stack Development)
-July 2024  - AWS Conference (Cloud Infrastructure)
-July 2024  - Microsoft ML Fundamentals (Machine Learning)
-August 2024 - Nexus Info Internship (Data Science & NLP)
-🗓️ 2025 Journey
-text
-August 2025 - IEEE Conference (Volunteer & Technical Presentation)
-September 2025 - Google AI Essentials (Advanced AI/ML)
-2025 - Hackathon Participation (GIS & AI Solutions)
-📈 Certificate Statistics
 <div align="center">
-Year	Certificates	Internships	Conferences	Hackathons
-2024	3	2	1	0
-2025	2	0	1	1
-Total	5	2	2	1
-</div>
-🎯 Achievement Highlights
-<div align="center">
-https://img.shields.io/badge/Technical_Presentations-1_Completed-blue
-https://img.shields.io/badge/Successful_Internships-2_Completed-green
-https://img.shields.io/badge/Industry_Certifications-3_Completed-orange
-https://img.shields.io/badge/Hackathon_Projects-1_Completed-purple
-
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+<h3>🤖 AI/ML Technologies</h3>
+<p>
+<img src="https://img.shields.io/badge/Python-Expert-green?style=for-the-badge&logo=python">
+<img src="https://img.shields.io/badge/Machine_Learning-Advanced-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/NLP-Intermediate-yellow?style=for-the-badge">
+<img src="https://img.shields.io/badge/Generative_AI-Beginner-blue?style=for-the-badge">
+</p>
+</td>
+<td width="50%" valign="top">
+<h3>💻 Web Development</h3>
+<p>
+<img src="https://img.shields.io/badge/Node.js-Advanced-green?style=for-the-badge&logo=node.js">
+<img src="https://img.shields.io/badge/Express-Advanced-green?style=for-the-badge">
+<img src="https://img.shields.io/badge/MySQL-Intermediate-orange?style=for-the-badge&logo=mysql">
+<img src="https://img.shields.io/badge/JavaScript-Expert-green?style=for-the-badge&logo=javascript">
+</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>📊 Data Science</h3>
+<p>
+<img src="https://img.shields.io/badge/Pandas-Intermediate-orange?style=for-the-badge&logo=pandas">
+<img src="https://img.shields.io/badge/NumPy-Intermediate-orange?style=for-the-badge&logo=numpy">
+<img src="https://img.shields.io/badge/EDA-Advanced-green?style=for-the-badge">
+<img src="https://img.shields.io/badge/Visualization-Intermediate-yellow?style=for-the-badge">
+</p>
+</td>
+<td width="50%" valign="top">
+<h3>☁️ Cloud & Tools</h3>
+<p>
+<img src="https://img.shields.io/badge/AWS-Beginner-blue?style=for-the-badge&logo=amazon-aws">
+<img src="https://img.shields.io/badge/GIS_Tools-Intermediate-yellow?style=for-the-badge">
+<img src="https://img.shields.io/badge/Git-Advanced-green?style=for-the-badge&logo=git">
+</p>
+</td>
+</tr>
+</table>
 </div>
 🌟 Future Learning Path
-Advanced Machine Learning - Deep Learning Specialization
-
-Cloud Certification - AWS/Azure Professional Certifications
-
-Big Data Technologies - Apache Spark, Hadoop ecosystems
-
-DevOps Practices - CI/CD, Containerization, Kubernetes
-
-Advanced Web Technologies - React, Angular, Vue.js
-
-📞 Connect With Me
+Advanced Machine Learning: Deep Learning Specialization
+Cloud Certification: AWS/Azure Professional Certifications
+Big Data Technologies: Apache Spark, Hadoop ecosystems
+DevOps Practices: CI/CD, Containerization, Kubernetes
+Advanced Web Technologies: React, Angular, Vue.js
+📈 GitHub Stats
 <div align="center">
-https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin
-https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github
-https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail
-
+<img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark" alt="Top Langs">
 </div>
 <div align="center">
-🚀 "The capacity to learn is a gift; the ability to learn is a skill; the willingness to learn is a choice." - Brian Herbert
-🤖 AI Enthusiast | 💻 Full-Stack Developer | 📊 Data Science Learner
+<p>🚀 <em>"The capacity to learn is a gift; the ability to learn is a skill; the willingness to learn is a choice." - Brian Herbert</em></p>
+<p>⭐ Star this repository if you find my journey inspiring! ⭐</p>
+</div><div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmY5cHg5N3ZmbjZ5b2RnanE4eDBsZ3R0ZzZpZ3o3eW16aXQ2eGZqdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkASztds2/giphy.gif" width="200" />
+  <h1><strong>Prince Koladiya's Certification Portfolio</strong></h1>
+  <p>An active learner passionate about AI/ML, Full-Stack Development, and Data Science.</p>
 
-⭐ Star this repository if you find my journey inspiring!
+  <p>
+    <img src="https://img.shields.io/badge/Total_Certificates-8-00d4ff?style=for-the-badge&logo=starship" alt="Total Certificates">
+    <img src="https://img.shields.io/badge/Latest_Update-September_2025-brightgreen?style=for-the-badge" alt="Latest Update">
+    <img src="https://img.shields.io/badge/Status-Active_Learner-orange?style=for-the-badge" alt="Status">
+  </p>
 
+  <p>
+    <a href="your-linkedin-url"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+    <a href="https://github.com/your-github-username"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub"></a>
+    <a href="mailto:your-email-address"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email"></a>
+  </p>
 </div>
-Last Updated: September 2025
-Total Certificates: 8 | Internships: 2 | Conferences: 2 | Hackathons: 1
-Active in: AI/ML, Web Development, Data Science, Cloud Technologies
 
-📁 Repository Structure
-text
-my-certificates/
-│
-├── 📁 google-ai-essentials/
-│   └── certificate.pdf
-│
-├── 📁 ieee-conference/
-│   └── volunteer-certificate.pdf
-│
-├── 📁 microsoft-ml/
-│   └── fundamentals-certificate.pdf
-│
-├── 📁 aws-conference/
-│   └── attendance-certificate.pdf
-│
-├── 📁 nexus-info-internship/
-│   └── completion-certificate.pdf
-│
-├── 📁 hackathon/
-│   └── participation-certificate.pdf
-│
-├── 📁 akshaya-patra-internship/
-│   └── completion-certificate.pdf
-│
-└── 📄 README.md
+---
+
+## 📊 Certificate Overview
+
+| Certificate                     | Organization      | Date       | Skills                       | Status      |
+| ------------------------------- | ----------------- | ---------- | ---------------------------- | ----------- |
+| Google AI Essentials            | Google            | Sep 2025   | AI/ML, Generative AI         | ✅ Completed |
+| IEEE Conference Volunteer       | IEEE              | Aug 2025   | Leadership, Presentation     | ✅ Completed |
+| Machine Learning Fundamentals   | Microsoft         | Jul 2024   | ML Concepts                  | ✅ Completed |
+| AWS Conference                  | Amazon            | Jul 2024   | Cloud Infrastructure         | ✅ Attended  |
+| Data Science Internship         | Nexus Info        | Aug 2024   | NLP, EDA, ML                 | ✅ Completed |
+| Hackathon Participation         | DA-IICT           | 2025       | GIS, AI, Data Visualization  | ✅ Participated |
+| Sensory Automation Intern       | Akshaya Patra     | Jun 2024   | Full-Stack Development       | ✅ Completed |
+
+---
+
+## 🚀 Detailed Certificate Breakdown
+
+<details>
+<summary>🎯 <strong>Google AI Essentials (September 2025)</strong></summary>
+<br>
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Level-Advanced-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Focus-AI/ML-important?style=for-the-badge">
+</div>
+
+### Key Learnings:
+- 🤖 **AI/ML Fundamentals:** Comprehensive understanding of machine learning concepts.
+- 🧮 **Mathematics Behind ML:** Statistical foundations and algorithmic principles.
+- 🎨 **Generative AI:** Principles and practical applications.
+- 💡 **Real-world Implementation:** Industry-specific AI solutions.
+
+**Technologies:** Python, Machine Learning, Generative AI
+</details>
+
+<details>
+<summary>🌐 <strong>IEEE AIMV-2025 Conference Volunteer (August 2025)</strong></summary>
+<br>
+<div align="center">
+  <img src="https://img.shields.io/badge/Role-Volunteer_Lead-red?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Presentation-Successful-brightgreen?style=for-the-badge">
+</div>
+
+### Responsibilities & Achievements:
+- 🎤 **Session Coordination Lead:** Managed complete conference session workflows.
+- 📊 **Technical Presenter:** Delivered research on "Machine Learning in Stellar Spacecraft Operations."
+- 👥 **Speaker Management:** Coordinated with international speakers and chairs.
+- 📜 **Certificate Distribution:** Organized credential management.
+
+**Skills Developed:** Public Speaking, Event Management, Technical Presentation
+</details>
+
+<details>
+<summary>🤖 <strong>Microsoft ML Fundamentals (July 2024)</strong></summary>
+<br>
+<div align="center">
+  <img src="https://img.shields.io/badge/Issuer-Microsoft-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Focus-Machine_Learning-ff69b4?style=for-the-badge">
+</div>
+
+### Core Competencies:
+- 📈 **Machine Learning Concepts:** Comprehensive theoretical foundation.
+- 🔧 **Practical Implementation:** Real-world application scenarios.
+- 🏗️ **Algorithm Understanding:** In-depth knowledge of ML algorithms.
+- 📊 **Data Processing:** Data preparation and feature engineering.
+
+**Technologies:** Machine Learning, Data Analysis, Python
+</details>
+
+---
+
+## 📅 Learning Timeline
+
+```mermaid
+gantt
+    title Learning and Achievement Timeline
+    dateFormat  YYYY-MM
+    axisFormat %b %Y
+
+    section 2024
+    Akshaya Patra Internship (Full-Stack) :done, 2024-06, 30d
+    AWS Conference (Cloud Infrastructure) :done, 2024-07, 5d
+    Microsoft ML Fundamentals (Machine Learning) :done, 2024-07, 20d
+    Nexus Info Internship (Data Science & NLP) :done, 2024-08, 30d
+
+    section 2025
+    Hackathon Participation (GIS & AI) :done, 2025-01, 2d
+    IEEE Conference (Volunteer & Presentation) :active, 2025-08, 15d
+    Google AI Essentials (Advanced AI/ML) :active, 2025-09, 30d
+🛠️ Technical Skills Summary
+<div align="center">
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+<h3>🤖 AI/ML Technologies</h3>
+<p>
+<img src="https://img.shields.io/badge/Python-Expert-green?style=for-the-badge&logo=python">
+<img src="https://img.shields.io/badge/Machine_Learning-Advanced-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/NLP-Intermediate-yellow?style=for-the-badge">
+<img src="https://img.shields.io/badge/Generative_AI-Beginner-blue?style=for-the-badge">
+</p>
+</td>
+<td width="50%" valign="top">
+<h3>💻 Web Development</h3>
+<p>
+<img src="https://img.shields.io/badge/Node.js-Advanced-green?style=for-the-badge&logo=node.js">
+<img src="https://img.shields.io/badge/Express-Advanced-green?style=for-the-badge">
+<img src="https://img.shields.io/badge/MySQL-Intermediate-orange?style=for-the-badge&logo=mysql">
+<img src="https://img.shields.io/badge/JavaScript-Expert-green?style=for-the-badge&logo=javascript">
+</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>📊 Data Science</h3>
+<p>
+<img src="https://img.shields.io/badge/Pandas-Intermediate-orange?style=for-the-badge&logo=pandas">
+<img src="https://img.shields.io/badge/NumPy-Intermediate-orange?style=for-the-badge&logo=numpy">
+<img src="https://img.shields.io/badge/EDA-Advanced-green?style=for-the-badge">
+<img src="https://img.shields.io/badge/Visualization-Intermediate-yellow?style=for-the-badge">
+</p>
+</td>
+<td width="50%" valign="top">
+<h3>☁️ Cloud & Tools</h3>
+<p>
+<img src="https://img.shields.io/badge/AWS-Beginner-blue?style=for-the-badge&logo=amazon-aws">
+<img src="https://img.shields.io/badge/GIS_Tools-Intermediate-yellow?style=for-the-badge">
+<img src="https://img.shields.io/badge/Git-Advanced-green?style=for-the-badge&logo=git">
+</p>
+</td>
+</tr>
+</table>
+</div>
+🌟 Future Learning Path
+Advanced Machine Learning: Deep Learning Specialization
+Cloud Certification: AWS/Azure Professional Certifications
+Big Data Technologies: Apache Spark, Hadoop ecosystems
+DevOps Practices: CI/CD, Containerization, Kubernetes
+Advanced Web Technologies: React, Angular, Vue.js
+📈 GitHub Stats
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark" alt="Top Langs">
+</div>
+<div align="center">
+<p>🚀 <em>"The capacity to learn is a gift; the ability to learn is a skill; the willingness to learn is a choice." - Brian Herbert</em></p>
+<p>⭐ Star this repository if you find my journey inspiring! ⭐</p>
+</div><div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmY5cHg5N3ZmbjZ5b2RnanE4eDBsZ3R0ZzZpZ3o3eW16aXQ2eGZqdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkASztds2/giphy.gif" width="200" />
+  <h1><strong>Prince Koladiya's Certification Portfolio</strong></h1>
+  <p>An active learner passionate about AI/ML, Full-Stack Development, and Data Science.</p>
+
+  <p>
+    <img src="https://img.shields.io/badge/Total_Certificates-8-00d4ff?style=for-the-badge&logo=starship" alt="Total Certificates">
+    <img src="https://img.shields.io/badge/Latest_Update-September_2025-brightgreen?style=for-the-badge" alt="Latest Update">
+    <img src="https://img.shields.io/badge/Status-Active_Learner-orange?style=for-the-badge" alt="Status">
+  </p>
+
+  <p>
+    <a href="your-linkedin-url"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+    <a href="https://github.com/your-github-username"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub"></a>
+    <a href="mailto:your-email-address"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email"></a>
+  </p>
+</div>
+
+---
+
+## 📊 Certificate Overview
+
+| Certificate                     | Organization      | Date       | Skills                       | Status      |
+| ------------------------------- | ----------------- | ---------- | ---------------------------- | ----------- |
+| Google AI Essentials            | Google            | Sep 2025   | AI/ML, Generative AI         | ✅ Completed |
+| IEEE Conference Volunteer       | IEEE              | Aug 2025   | Leadership, Presentation     | ✅ Completed |
+| Machine Learning Fundamentals   | Microsoft         | Jul 2024   | ML Concepts                  | ✅ Completed |
+| AWS Conference                  | Amazon            | Jul 2024   | Cloud Infrastructure         | ✅ Attended  |
+| Data Science Internship         | Nexus Info        | Aug 2024   | NLP, EDA, ML                 | ✅ Completed |
+| Hackathon Participation         | DA-IICT           | 2025       | GIS, AI, Data Visualization  | ✅ Participated |
+| Sensory Automation Intern       | Akshaya Patra     | Jun 2024   | Full-Stack Development       | ✅ Completed |
+
+---
+
+## 🚀 Detailed Certificate Breakdown
+
+<details>
+<summary>🎯 <strong>Google AI Essentials (September 2025)</strong></summary>
+<br>
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Level-Advanced-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Focus-AI/ML-important?style=for-the-badge">
+</div>
+
+### Key Learnings:
+- 🤖 **AI/ML Fundamentals:** Comprehensive understanding of machine learning concepts.
+- 🧮 **Mathematics Behind ML:** Statistical foundations and algorithmic principles.
+- 🎨 **Generative AI:** Principles and practical applications.
+- 💡 **Real-world Implementation:** Industry-specific AI solutions.
+
+**Technologies:** Python, Machine Learning, Generative AI
+</details>
+
+<details>
+<summary>🌐 <strong>IEEE AIMV-2025 Conference Volunteer (August 2025)</strong></summary>
+<br>
+<div align="center">
+  <img src="https://img.shields.io/badge/Role-Volunteer_Lead-red?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Presentation-Successful-brightgreen?style=for-the-badge">
+</div>
+
+### Responsibilities & Achievements:
+- 🎤 **Session Coordination Lead:** Managed complete conference session workflows.
+- 📊 **Technical Presenter:** Delivered research on "Machine Learning in Stellar Spacecraft Operations."
+- 👥 **Speaker Management:** Coordinated with international speakers and chairs.
+- 📜 **Certificate Distribution:** Organized credential management.
+
+**Skills Developed:** Public Speaking, Event Management, Technical Presentation
+</details>
+
+<details>
+<summary>🤖 <strong>Microsoft ML Fundamentals (July 2024)</strong></summary>
+<br>
+<div align="center">
+  <img src="https://img.shields.io/badge/Issuer-Microsoft-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Focus-Machine_Learning-ff69b4?style=for-the-badge">
+</div>
+
+### Core Competencies:
+- 📈 **Machine Learning Concepts:** Comprehensive theoretical foundation.
+- 🔧 **Practical Implementation:** Real-world application scenarios.
+- 🏗️ **Algorithm Understanding:** In-depth knowledge of ML algorithms.
+- 📊 **Data Processing:** Data preparation and feature engineering.
+
+**Technologies:** Machine Learning, Data Analysis, Python
+</details>
+
+---
+
+## 📅 Learning Timeline
+
+```mermaid
+gantt
+    title Learning and Achievement Timeline
+    dateFormat  YYYY-MM
+    axisFormat %b %Y
+
+    section 2024
+    Akshaya Patra Internship (Full-Stack) :done, 2024-06, 30d
+    AWS Conference (Cloud Infrastructure) :done, 2024-07, 5d
+    Microsoft ML Fundamentals (Machine Learning) :done, 2024-07, 20d
+    Nexus Info Internship (Data Science & NLP) :done, 2024-08, 30d
+
+    section 2025
+    Hackathon Participation (GIS & AI) :done, 2025-01, 2d
+    IEEE Conference (Volunteer & Presentation) :active, 2025-08, 15d
+    Google AI Essentials (Advanced AI/ML) :active, 2025-09, 30d
+🛠️ Technical Skills Summary
+<div align="center">
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+<h3>🤖 AI/ML Technologies</h3>
+<p>
+<img src="https://img.shields.io/badge/Python-Expert-green?style=for-the-badge&logo=python">
+<img src="https://img.shields.io/badge/Machine_Learning-Advanced-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/NLP-Intermediate-yellow?style=for-the-badge">
+<img src="https://img.shields.io/badge/Generative_AI-Beginner-blue?style=for-the-badge">
+</p>
+</td>
+<td width="50%" valign="top">
+<h3>💻 Web Development</h3>
+<p>
+<img src="https://img.shields.io/badge/Node.js-Advanced-green?style=for-the-badge&logo=node.js">
+<img src="https://img.shields.io/badge/Express-Advanced-green?style=for-the-badge">
+<img src="https://img.shields.io/badge/MySQL-Intermediate-orange?style=for-the-badge&logo=mysql">
+<img src="https://img.shields.io/badge/JavaScript-Expert-green?style=for-the-badge&logo=javascript">
+</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>📊 Data Science</h3>
+<p>
+<img src="https://img.shields.io/badge/Pandas-Intermediate-orange?style=for-the-badge&logo=pandas">
+<img src="https://img.shields.io/badge/NumPy-Intermediate-orange?style=for-the-badge&logo=numpy">
+<img src="https://img.shields.io/badge/EDA-Advanced-green?style=for-the-badge">
+<img src="https://img.shields.io/badge/Visualization-Intermediate-yellow?style=for-the-badge">
+</p>
+</td>
+<td width="50%" valign="top">
+<h3>☁️ Cloud & Tools</h3>
+<p>
+<img src="https://img.shields.io/badge/AWS-Beginner-blue?style=for-the-badge&logo=amazon-aws">
+<img src="https://img.shields.io/badge/GIS_Tools-Intermediate-yellow?style=for-the-badge">
+<img src="https://img.shields.io/badge/Git-Advanced-green?style=for-the-badge&logo=git">
+</p>
+</td>
+</tr>
+</table>
+</div>
+🌟 Future Learning Path
+Advanced Machine Learning: Deep Learning Specialization
+Cloud Certification: AWS/Azure Professional Certifications
+Big Data Technologies: Apache Spark, Hadoop ecosystems
+DevOps Practices: CI/CD, Containerization, Kubernetes
+Advanced Web Technologies: React, Angular, Vue.js
+📈 GitHub Stats
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark" alt="Top Langs">
+</div>
+<div align="center">
+<p>🚀 <em>"The capacity to learn is a gift; the ability to learn is a skill; the willingness to learn is a choice." - Brian Herbert</em></p>
+<p>⭐ Star this repository if you find my journey inspiring! ⭐</p>
+</div>
