@@ -98,6 +98,83 @@
 
 </details>
 
+## 🔍 Detailed Certificate & Experience Breakdown
+
+<details>
+<summary>☁️ <strong>AWS Conference (Amazon, July 2024)</strong></summary>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Role-Participant-blue?style=for-the-badge" alt="Role">
+  <img src="https://img.shields.io/badge/Focus-Cloud_Infrastructure-yellow?style=for-the-badge" alt="Cloud Infrastructure">
+</div>
+
+### Highlights & Learnings
+- 📡 **Cloud Architecture Exposure:** Attended sessions covering AWS services like EC2, S3, Lambda, VPC, IAM, etc.  
+- 🧩 **Design Patterns & Best Practices:** Learned scalable, fault-tolerant system design in AWS.  
+- 🛠 **Hands-on Labs / Workshops:** Experienced deploying workloads, exploring the AWS console.  
+- ✅ **Networking:** Engaged with AWS engineers, cloud practitioners, peers.
+
+**Skills Gained:** Cloud Infrastructure, AWS services understanding, deployment methods
+
+</details>
+
+<details>
+<summary>📊 <strong>Data Science Internship (Nexus Info, August 2024)</strong></summary>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Role-Intern-green?style=for-the-badge" alt="Intern">
+  <img src="https://img.shields.io/badge/Focus-ML_NLP/EDA-blue?style=for-the-badge" alt="Data Science">
+</div>
+
+### Responsibilities & Achievements
+- 🧠 **Exploratory Data Analysis (EDA):** Cleaned, visualized, interpreted datasets to uncover insights.  
+- 🔍 **Natural Language Processing (NLP):** Tokenization, embeddings, sentiment analysis, etc.  
+- 🧮 **ML Modeling:** Built classification/regression models, performed hyperparameter tuning.  
+- 📈 **Reporting & Visualization:** Created plots, dashboards; presented findings.  
+- 🛠 **Tool Stack:** Python, Pandas, NumPy, scikit-learn, Matplotlib / Seaborn, possibly spaCy / NLTK.
+
+**Skills Gained:** EDA, NLP pipelines, model building, data storytelling
+
+</details>
+
+<details>
+<summary>🎯 <strong>Hackathon Participation (DA-IICT, Jan 15, 2025)</strong></summary>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Role-Participant-orange?style=for-the-badge" alt="Role">
+  <img src="https://img.shields.io/badge/Focus-GIS/AI/Visualization-lightblue?style=for-the-badge" alt="Focus">
+</div>
+
+### What I Worked On & Achieved
+- 🌍 **Geospatial Integration (GIS):** Merged maps, spatial coordinates, location data.  
+- 🤖 **AI / ML Logic:** Used algorithms like clustering or classification for use-cases.  
+- 📊 **Visualization / Dashboards:** Interactive charts, maps, data presentation.  
+- ⏱ **Rapid Prototyping:** Built a working MVP within limited time.  
+- 💡 **Teamwork & Pitching:** Collaborated on idea, delivered presentation / demo.
+
+**Skills Gained:** GIS handling, ML prototyping, visualization, working under pressure
+
+</details>
+
+<details>
+<summary>👨‍💻 <strong>Sensory Automation Internship (Akshaya Patra, June 2024)</strong></summary>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Role-Intern-lightgreen?style=for-the-badge" alt="Role">
+  <img src="https://img.shields.io/badge/Focus-Full-Stack_Development-blue?style=for-the-badge" alt="Focus">
+</div>
+
+### Key Projects & Outcomes
+- 🏗 **Backend APIs:** Built endpoints to accept and process sensor data.  
+- 🌐 **Frontend UI / Dashboard:** Designed interfaces to visualize sensor readings or system status.  
+- 📡 **Sensor / IoT Integration:** Handled real-time / periodic sensor data streams.  
+- 🔧 **Deployment & Testing:** Deployed the full-stack app; monitored, debugged, optimized.  
+- 📃 **Documentation:** Created API docs, usage guides for future developers.
+
+**Skills Gained:** Full-stack dev, API design, front + back coordination, IoT basics, deployment
+
+</details>
+
 ---
 
 ## 📅 Learning Timeline
