@@ -7,9 +7,9 @@
   *An active learner passionate about AI/ML, Full-Stack Development, and Data Science.*
 
   <p>
-    <img src="https://img.shields.io/badge/Total_Certificates-8-00d4ff?style=for-the-badge&logo=starship" alt="Total Certificates" />
+    <img src="https://img.shields.io/badge/Total_Certificates-9-00d4ff?style=for-the-badge&logo=starship" alt="Total Certificates" />
     <img src="https://img.shields.io/badge/Latest_Update-December_2025-brightgreen?style=for-the-badge" alt="Latest Update" />
-    <img src="https://img.shields.io/badge/Status-Active_Learner-orange?style=for-the-badge" alt="Status" />
+    <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="License" />
   </p>
 
   <p>
@@ -32,17 +32,38 @@
 | Certificate                             | Organization      | Date        | Skills                       | Status       |
 | --------------------------------------- | ----------------- | ----------- | ---------------------------- | ------------ |
 | **Generative AI with LLMs**             | DeepLearning.AI   | Nov 2025    | LLMs, Transformers, RLHF     | ✅ Completed  |
+| **OCI GenAI Professional 2025**         | Oracle            | Oct 2025    | OCI, RAG, LangChain, LLMs    | ✅ Completed  |
 | **Google AI Essentials**                | Google            | Sep 2025    | AI/ML, Generative AI         | ✅ Completed  |
 | **IEEE Conference Volunteer**           | IEEE              | Aug 2025    | Leadership, Presentation     | ✅ Completed  |
+| **Hackathon Participation**             | DA-IICT           | Jan 2025    | GIS, AI, Data Visualization  | ✅ Participated |
+| **Data Science Internship**             | Nexus Info        | Aug 2024    | NLP, EDA, ML                 | ✅ Completed  |
 | **ML Fundamentals**                     | Microsoft         | Jul 2024    | ML Concepts                  | ✅ Completed  |
 | **AWS Conference**                      | Amazon            | Jul 2024    | Cloud Infrastructure         | ✅ Attended   |
-| **Data Science Internship**             | Nexus Info        | Aug 2024    | NLP, EDA, ML                 | ✅ Completed  |
-| **Hackathon Participation**             | DA-IICT           | Jan 15, 2025| GIS, AI, Data Visualization  | ✅ Participated |
 | **Sensory Automation Intern**           | Akshaya Patra     | Jun 2024    | Full-Stack Development       | ✅ Completed  |
 
 ---
 
 ## 🚀 Detailed Certificate Breakdown
+
+<details>
+<summary>☁️ <strong>Oracle OCI 2025 Generative AI Professional (October 2025)</strong></summary>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-Certified_Professional-success?style=for-the-badge" alt="Status">
+  <img src="https://img.shields.io/badge/Issuer-Oracle-red?style=for-the-badge&logo=oracle" alt="Oracle">
+  <img src="https://img.shields.io/badge/Focus-Cloud_AI-orange?style=for-the-badge" alt="Focus">
+</div>
+
+### Key Learnings
+- 🤖 **OCI Generative AI Service:** In-depth knowledge of using pretrained LLMs (Cohere, Llama) on Oracle Cloud.
+- 🔍 **RAG (Retrieval Augmented Generation):** Implementing enterprise search using Vector Databases and OCI Search.
+- ⛓️ **LangChain Integration:** Orchestrating complex AI workflows and agents within the OCI ecosystem.
+- 🛠️ **Fine-tuning & Deployment:** Understanding parameter-efficient fine-tuning and hosting models on dedicated AI clusters.
+
+**Technologies:** OCI, LangChain, Vector DB, Large Language Models (LLMs)
+**Credential ID:** 102722412OCI25GAIOCP
+
+</details>
 
 <details>
 <summary>🧠 <strong>Generative AI with LLMs (November 2025)</strong></summary>
@@ -213,4 +234,5 @@ gantt
     Hackathon Participation (GIS & AI)         :done, 2025-01-15, 2d
     IEEE Conference (Volunteer & Presentation) :done, 2025-08-10, 5d
     Google AI Essentials (Advanced AI/ML)      :done, 2025-09-01, 30d
+    Oracle OCI GenAI Professional (Cloud AI)   :done, 2025-10-03, 1d
     Generative AI with LLMs (DeepLearning.AI)  :active, 2025-11-01, 25d
