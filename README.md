@@ -7,8 +7,8 @@
   *An active learner passionate about AI/ML, Full-Stack Development, and Data Science.*
 
   <p>
-    <img src="https://img.shields.io/badge/Total_Certificates-7-00d4ff?style=for-the-badge&logo=starship" alt="Total Certificates" />
-    <img src="https://img.shields.io/badge/Latest_Update-September_2025-brightgreen?style=for-the-badge" alt="Latest Update" />
+    <img src="https://img.shields.io/badge/Total_Certificates-8-00d4ff?style=for-the-badge&logo=starship" alt="Total Certificates" />
+    <img src="https://img.shields.io/badge/Latest_Update-December_2025-brightgreen?style=for-the-badge" alt="Latest Update" />
     <img src="https://img.shields.io/badge/Status-Active_Learner-orange?style=for-the-badge" alt="Status" />
   </p>
 
@@ -29,19 +29,39 @@
 
 ## 📊 Certificate Overview
 
-| Certificate                     | Organization      | Date        | Skills                       | Status       |
-| ------------------------------- | ----------------- | ----------- | ---------------------------- | ------------ |
-| **Google AI Essentials**        | Google            | Sep 2025    | AI/ML, Generative AI         | ✅ Completed  |
-| **IEEE Conference Volunteer**   | IEEE              | Aug 2025    | Leadership, Presentation     | ✅ Completed  |
-| **ML Fundamentals**             | Microsoft         | Jul 2024    | ML Concepts                  | ✅ Completed  |
-| **AWS Conference**              | Amazon            | Jul 2024    | Cloud Infrastructure         | ✅ Attended   |
-| **Data Science Internship**     | Nexus Info        | Aug 2024    | NLP, EDA, ML                 | ✅ Completed  |
-| **Hackathon Participation**     | DA-IICT           | Jan 15, 2025| GIS, AI, Data Visualization  | ✅ Participated |
-| **Sensory Automation Intern**   | Akshaya Patra     | Jun 2024    | Full-Stack Development       | ✅ Completed  |
+| Certificate                             | Organization      | Date        | Skills                       | Status       |
+| --------------------------------------- | ----------------- | ----------- | ---------------------------- | ------------ |
+| **Generative AI with LLMs**             | DeepLearning.AI   | Nov 2025    | LLMs, Transformers, RLHF     | ✅ Completed  |
+| **Google AI Essentials**                | Google            | Sep 2025    | AI/ML, Generative AI         | ✅ Completed  |
+| **IEEE Conference Volunteer**           | IEEE              | Aug 2025    | Leadership, Presentation     | ✅ Completed  |
+| **ML Fundamentals**                     | Microsoft         | Jul 2024    | ML Concepts                  | ✅ Completed  |
+| **AWS Conference**                      | Amazon            | Jul 2024    | Cloud Infrastructure         | ✅ Attended   |
+| **Data Science Internship**             | Nexus Info        | Aug 2024    | NLP, EDA, ML                 | ✅ Completed  |
+| **Hackathon Participation**             | DA-IICT           | Jan 15, 2025| GIS, AI, Data Visualization  | ✅ Participated |
+| **Sensory Automation Intern**           | Akshaya Patra     | Jun 2024    | Full-Stack Development       | ✅ Completed  |
 
 ---
 
 ## 🚀 Detailed Certificate Breakdown
+
+<details>
+<summary>🧠 <strong>Generative AI with LLMs (November 2025)</strong></summary>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" alt="Status">
+  <img src="https://img.shields.io/badge/Issuer-DeepLearning.AI-blueviolet?style=for-the-badge" alt="Issuer">
+  <img src="https://img.shields.io/badge/Focus-Generative_AI-ff69b4?style=for-the-badge" alt="Focus">
+</div>
+
+### Key Learnings
+- 🏗️ **Transformer Architecture:** Deep dive into the attention mechanism and encoder-decoder models.
+- ⚙️ **Fine-tuning:** Specialized techniques like PEFT (Parameter-Efficient Fine-Tuning) and LoRA.
+- ⚖️ **RLHF:** Reinforcement Learning from Human Feedback for model alignment.
+- 🚀 **Application Lifecycle:** Deploying and optimizing LLMs for real-world compute constraints.
+
+**Technologies:** PyTorch, Hugging Face, LLAMA, LangChain
+
+</details>
 
 <details>
 <summary>🎯 <strong>Google AI Essentials (September 2025)</strong></summary>
@@ -193,3 +213,4 @@ gantt
     Hackathon Participation (GIS & AI)         :done, 2025-01-15, 2d
     IEEE Conference (Volunteer & Presentation) :done, 2025-08-10, 5d
     Google AI Essentials (Advanced AI/ML)      :done, 2025-09-01, 30d
+    Generative AI with LLMs (DeepLearning.AI)  :active, 2025-11-01, 25d
